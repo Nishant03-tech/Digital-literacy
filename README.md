@@ -12,11 +12,11 @@ Task 2
 
 I created my digital portfolio on the following platforms:
 
-GitHub: 
+GitHub: https://github.com/Nishant03-tech
 
-LinkedIn:
+LinkedIn: 
 
-Kaggle: 
+Kaggle: https://www.kaggle.com/nishantmishravit
 
 Screenshots of all profiles are included in the task-2-portfolio folder.
 
