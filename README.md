@@ -14,7 +14,6 @@ I created my digital portfolio on the following platforms:
 
 GitHub: https://github.com/Nishant03-tech
 
-LinkedIn: 
 
 Kaggle: https://www.kaggle.com/nishantmishravit
 
